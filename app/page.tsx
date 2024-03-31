@@ -16,7 +16,7 @@ export default function Home() {
             <CryptoPriceApp />
           </div>
         </div>
-        <p className={styles.footer}>Built by <a href='https://twitter.com/codeblazer06' target='_blank'>CodeBlazer</a> & <a href='https://twitter.com/ZaurbekStark' target='_blank'>The Codebender</a></p>
+        <p className={styles.footer}>Built by <a href='https://twitter.com/ZaurbekStark' target='_blank'>The Codebender</a></p>
       </div>
     </main>
   )
